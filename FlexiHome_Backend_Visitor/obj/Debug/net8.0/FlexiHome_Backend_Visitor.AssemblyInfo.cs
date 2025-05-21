@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlexiHome_Backend_Visitor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b68fb28b703b677b8d4f0cb4ab42735214022ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75227a6c2be9341d4c88b10e1891cf2bc77a6799")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlexiHome_Backend_Visitor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlexiHome_Backend_Visitor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
