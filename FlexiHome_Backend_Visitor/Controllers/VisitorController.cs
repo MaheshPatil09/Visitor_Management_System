@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using FlexiHome_Backend_Visitor.VisitorModel;
 namespace FlexiHome_Backend_Visitor.Controllers
 {
+    // check 1 
     [ApiController]
     [Route("api/[controller]/[action]")]
     public class VisitorController : Controller
