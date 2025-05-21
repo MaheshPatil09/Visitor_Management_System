@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FlexiHome_Backend_Visitor.props" />
+</Project>

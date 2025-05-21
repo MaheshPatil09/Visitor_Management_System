@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8842F41B-D6AD-4F75-BC2E-FD716AA2A776}|FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor.csproj|d:\\backend\\flexihome-backend\\flexihome_backend_visitor\\flexihome_backend_visitor\\databaselayer\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8842F41B-D6AD-4F75-BC2E-FD716AA2A776}|FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor.csproj|solutionrelative:flexihome_backend_visitor\\databaselayer\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8842F41B-D6AD-4F75-BC2E-FD716AA2A776}|FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor.csproj|d:\\backend\\flexihome-backend\\flexihome_backend_visitor\\flexihome_backend_visitor\\visitormodel\\visitormodelclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8842F41B-D6AD-4F75-BC2E-FD716AA2A776}|FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor.csproj|solutionrelative:flexihome_backend_visitor\\visitormodel\\visitormodelclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8842F41B-D6AD-4F75-BC2E-FD716AA2A776}|FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor.csproj|d:\\backend\\flexihome-backend\\flexihome_backend_visitor\\flexihome_backend_visitor\\visitorentity\\visitorentityclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8842F41B-D6AD-4F75-BC2E-FD716AA2A776}|FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor.csproj|solutionrelative:flexihome_backend_visitor\\visitorentity\\visitorentityclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8842F41B-D6AD-4F75-BC2E-FD716AA2A776}|FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor.csproj|d:\\backend\\flexihome-backend\\flexihome_backend_visitor\\flexihome_backend_visitor\\controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8842F41B-D6AD-4F75-BC2E-FD716AA2A776}|FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor.csproj|solutionrelative:flexihome_backend_visitor\\controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8842F41B-D6AD-4F75-BC2E-FD716AA2A776}|FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor.csproj|d:\\backend\\flexihome-backend\\flexihome_backend_visitor\\flexihome_backend_visitor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8842F41B-D6AD-4F75-BC2E-FD716AA2A776}|FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor.csproj|solutionrelative:flexihome_backend_visitor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8842F41B-D6AD-4F75-BC2E-FD716AA2A776}|FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor.csproj|d:\\backend\\flexihome-backend\\flexihome_backend_visitor\\flexihome_backend_visitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8842F41B-D6AD-4F75-BC2E-FD716AA2A776}|FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor.csproj|solutionrelative:flexihome_backend_visitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8842F41B-D6AD-4F75-BC2E-FD716AA2A776}|FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor.csproj|d:\\backend\\flexihome-backend\\flexihome_backend_visitor\\flexihome_backend_visitor\\dbcontext\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8842F41B-D6AD-4F75-BC2E-FD716AA2A776}|FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor.csproj|solutionrelative:flexihome_backend_visitor\\dbcontext\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8842F41B-D6AD-4F75-BC2E-FD716AA2A776}|FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor.csproj|d:\\backend\\flexihome-backend\\flexihome_backend_visitor\\flexihome_backend_visitor\\databaselayer\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8842F41B-D6AD-4F75-BC2E-FD716AA2A776}|FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor.csproj|solutionrelative:flexihome_backend_visitor\\databaselayer\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8842F41B-D6AD-4F75-BC2E-FD716AA2A776}|FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor.csproj|d:\\backend\\flexihome-backend\\flexihome_backend_visitor\\flexihome_backend_visitor\\helper\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8842F41B-D6AD-4F75-BC2E-FD716AA2A776}|FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor.csproj|solutionrelative:flexihome_backend_visitor\\helper\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8842F41B-D6AD-4F75-BC2E-FD716AA2A776}|FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor.csproj|d:\\backend\\flexihome-backend\\flexihome_backend_visitor\\flexihome_backend_visitor\\common\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8842F41B-D6AD-4F75-BC2E-FD716AA2A776}|FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor.csproj|solutionrelative:flexihome_backend_visitor\\common\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8842F41B-D6AD-4F75-BC2E-FD716AA2A776}|FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor.csproj|d:\\backend\\flexihome-backend\\flexihome_backend_visitor\\flexihome_backend_visitor\\visitorservice\\visitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8842F41B-D6AD-4F75-BC2E-FD716AA2A776}|FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor.csproj|solutionrelative:flexihome_backend_visitor\\visitorservice\\visitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8842F41B-D6AD-4F75-BC2E-FD716AA2A776}|FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor.csproj|d:\\backend\\flexihome-backend\\flexihome_backend_visitor\\flexihome_backend_visitor\\vistorinterface\\ivisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8842F41B-D6AD-4F75-BC2E-FD716AA2A776}|FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor.csproj|solutionrelative:flexihome_backend_visitor\\vistorinterface\\ivisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor\\Program.cs",
+              "RelativeDocumentMoniker": "FlexiHome_Backend_Visitor\\Program.cs",
+              "ToolTip": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor\\Program.cs",
+              "RelativeToolTip": "FlexiHome_Backend_Visitor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:01:25.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VisitorController.cs",
+              "DocumentMoniker": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor\\Controllers\\VisitorController.cs",
+              "RelativeDocumentMoniker": "FlexiHome_Backend_Visitor\\Controllers\\VisitorController.cs",
+              "ToolTip": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor\\Controllers\\VisitorController.cs",
+              "RelativeToolTip": "FlexiHome_Backend_Visitor\\Controllers\\VisitorController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T05:12:57.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDatabase.cs",
+              "DocumentMoniker": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor\\DatabaseLayer\\IDatabase.cs",
+              "RelativeDocumentMoniker": "FlexiHome_Backend_Visitor\\DatabaseLayer\\IDatabase.cs",
+              "ToolTip": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor\\DatabaseLayer\\IDatabase.cs",
+              "RelativeToolTip": "FlexiHome_Backend_Visitor\\DatabaseLayer\\IDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:55:25.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor\\DatabaseLayer\\Database.cs",
+              "RelativeDocumentMoniker": "FlexiHome_Backend_Visitor\\DatabaseLayer\\Database.cs",
+              "ToolTip": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor\\DatabaseLayer\\Database.cs",
+              "RelativeToolTip": "FlexiHome_Backend_Visitor\\DatabaseLayer\\Database.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:55:44.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor\\DbContext\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "FlexiHome_Backend_Visitor\\DbContext\\MongoDbContext.cs",
+              "ToolTip": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor\\DbContext\\MongoDbContext.cs",
+              "RelativeToolTip": "FlexiHome_Backend_Visitor\\DbContext\\MongoDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:36:23.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor\\appsettings.json",
+              "RelativeDocumentMoniker": "FlexiHome_Backend_Visitor\\appsettings.json",
+              "ToolTip": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor\\appsettings.json",
+              "RelativeToolTip": "FlexiHome_Backend_Visitor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-09T05:53:27.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VisitorModelClass.cs",
+              "DocumentMoniker": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor\\VisitorModel\\VisitorModelClass.cs",
+              "RelativeDocumentMoniker": "FlexiHome_Backend_Visitor\\VisitorModel\\VisitorModelClass.cs",
+              "ToolTip": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor\\VisitorModel\\VisitorModelClass.cs",
+              "RelativeToolTip": "FlexiHome_Backend_Visitor\\VisitorModel\\VisitorModelClass.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T05:15:54.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VisitorEntityClass.cs",
+              "DocumentMoniker": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor\\VisitorEntity\\VisitorEntityClass.cs",
+              "RelativeDocumentMoniker": "FlexiHome_Backend_Visitor\\VisitorEntity\\VisitorEntityClass.cs",
+              "ToolTip": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor\\VisitorEntity\\VisitorEntityClass.cs",
+              "RelativeToolTip": "FlexiHome_Backend_Visitor\\VisitorEntity\\VisitorEntityClass.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwBwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T05:16:25.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VisitorService.cs",
+              "DocumentMoniker": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor\\VisitorService\\VisitorService.cs",
+              "RelativeDocumentMoniker": "FlexiHome_Backend_Visitor\\VisitorService\\VisitorService.cs",
+              "ToolTip": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor\\VisitorService\\VisitorService.cs",
+              "RelativeToolTip": "FlexiHome_Backend_Visitor\\VisitorService\\VisitorService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwH0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:38:51.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MongoDbSettings.cs",
+              "DocumentMoniker": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor\\Helper\\MongoDbSettings.cs",
+              "RelativeDocumentMoniker": "FlexiHome_Backend_Visitor\\Helper\\MongoDbSettings.cs",
+              "ToolTip": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor\\Helper\\MongoDbSettings.cs",
+              "RelativeToolTip": "FlexiHome_Backend_Visitor\\Helper\\MongoDbSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:02:40.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IVisitor.cs",
+              "DocumentMoniker": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor\\VistorInterface\\IVisitor.cs",
+              "RelativeDocumentMoniker": "FlexiHome_Backend_Visitor\\VistorInterface\\IVisitor.cs",
+              "ToolTip": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor\\VistorInterface\\IVisitor.cs",
+              "RelativeToolTip": "FlexiHome_Backend_Visitor\\VistorInterface\\IVisitor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:37:18.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor\\Common\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "FlexiHome_Backend_Visitor\\Common\\MappingProfile.cs",
+              "ToolTip": "D:\\Backend\\FlexiHome-Backend\\FlexiHome_Backend_Visitor\\FlexiHome_Backend_Visitor\\Common\\MappingProfile.cs",
+              "RelativeToolTip": "FlexiHome_Backend_Visitor\\Common\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T05:51:02.735Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

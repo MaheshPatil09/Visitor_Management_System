@@ -1,0 +1,6 @@
+@FlexiHome_Backend_Visitor_HostAddress = http://localhost:5004
+
+GET {{FlexiHome_Backend_Visitor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
